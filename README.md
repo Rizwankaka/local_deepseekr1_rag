@@ -1,9 +1,9 @@
 # **Local RAG using Ollama with DeepSeek-R1:1.5b Model** 🧠
 
 
-```
+
 ![interface](./images/interface.png)
-```
+
 
 ## **Unlock the Power of Local AI-Powered Document Analysis!** 🌟
 
