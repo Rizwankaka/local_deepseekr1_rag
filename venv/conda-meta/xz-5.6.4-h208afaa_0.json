@@ -1,0 +1,36 @@
+{
+  "build": "h208afaa_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "liblzma 5.6.4 h2466b09_0",
+    "liblzma-devel 5.6.4 h2466b09_0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "xz-tools 5.6.4 h2466b09_0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\xz-5.6.4-h208afaa_0",
+  "files": [],
+  "fn": "xz-5.6.4-h208afaa_0.conda",
+  "license": "0BSD AND LGPL-2.1-or-later AND GPL-2.0-or-later",
+  "link": {
+    "source": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\xz-5.6.4-h208afaa_0",
+    "type": 1
+  },
+  "md5": "97e1f122231e057a3da5cd32affcc9c2",
+  "name": "xz",
+  "package_tarball_full_path": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\xz-5.6.4-h208afaa_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "26d5a1569c391566d42e7094aa5a3695487cf6c5cf33f45a7bb750bbcaca79fc",
+  "size": 23977,
+  "subdir": "win-64",
+  "timestamp": 1738525637000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xz-5.6.4-h208afaa_0.conda",
+  "version": "5.6.4"
+}
