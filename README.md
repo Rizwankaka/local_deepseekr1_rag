@@ -3,7 +3,8 @@
 
 
 ![interface](./images/interface.png)
-
+![response](./images/response.png)
+![sources](./images/sources.png)
 
 ## **Unlock the Power of Local AI-Powered Document Analysis!** 🌟
 
